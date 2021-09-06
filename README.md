@@ -1,4 +1,9 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/29548128/71769266-43433580-2f62-11ea-8d41-ae40f21f8c50.png"></p>
+<p align="center">
+  <img src = "https://img.shields.io/badge/Repositories-4-skyblue">
+  <img src = "https://img.shields.io/badge/issues-0-9cf">
+  <img src = "https://img.shields.io/badge/pull requests-1-green"> <br/><br/>
+</p>
 
 # 🥇 파뿌리(3기)란?
 - 파이썬 뿌시는 이십대들의 줄임말!
