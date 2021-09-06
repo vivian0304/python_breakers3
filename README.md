@@ -17,7 +17,7 @@
 
 - week 4 (4주차) 퀘스트 : 기트허브 기초 발걸음 떼기
   - 문제: 기트허브 README.md를 통해 기트허브 꾸며보기
-  - ✏️: 숙제 결과: 현재 
+  - ✏️: 숙제 결과: [this](https://github.com/vivian0304/test_git/blob/0cedfe8e6db716ad699469ab9d52a24ad00f8b89/README.md)
 
 # :pushpin: Final Stage
 - 파이썬을 이용하여 다양하고 광범위한 데이터 파일들을 분석하고 유의미한 결과를 도출해보기 !
