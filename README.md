@@ -21,5 +21,5 @@
   
   
 # :speech_balloon: E-mail
-- <dpwldkdk@gmail.com>
+- <vivian0304@naver.com>
 
