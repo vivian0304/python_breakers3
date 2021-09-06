@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/81091074/132011830-92081964-5cf5-4de2-a3f1-021701a2e7cb.jpg)
+![logo](https://user-images.githubusercontent.com/29548128/71769266-43433580-2f62-11ea-8d41-ae40f21f8c50.png)
 -
 # :seedling: About 파뿌리 (3기) !
 - 파뿌리 : 파이썬(python)을 뿌시는 이십대들을 뜻하는 재능기부 프로젝트 
