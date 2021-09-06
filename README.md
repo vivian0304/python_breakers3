@@ -12,11 +12,12 @@
   - :pencil2: 숙제 결과: [homework.ipynb](https://github.com/vivian0304/test_git/blob/437d8086100fc0a094d7e4fb9a7fffb38b4edc8c/homework.ipynb)
   
 - weeks 3 (3주차) 퀘스트 : 함수응용(예외처리 포함)
-  - 문제 출처: [3주차 퀘스트](https://github.com/koptimizer/Python_Breakers/blob/40712328a8371c04f9b97fcaa78accdac7daa32f/season3/quest/3%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md)
+  - 문제: [3주차 퀘스트](https://github.com/koptimizer/Python_Breakers/blob/40712328a8371c04f9b97fcaa78accdac7daa32f/season3/quest/3%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md)
   - :pencil2: 숙제 결과: [homework2.ipynb](https://github.com/vivian0304/test_git/blob/437d8086100fc0a094d7e4fb9a7fffb38b4edc8c/homework2.ipynb)
 
 - week 4 (4주차) 퀘스트 : 기트허브 기초 발걸음 떼기
-  - ✏️: [1weeks_kimyeji.ipynb](https://github.com/iamyeahzi/BreakPython/blob/master/1weeks_kimyeji.ipynb)
+  - 문제: 기트허브 README.md를 통해 기트허브 꾸며보기
+  - ✏️: 숙제 결과: 현재 
 
 # :pushpin: Final Stage
 - 파이썬을 이용하여 다양하고 광범위한 데이터 파일들을 분석하고 유의미한 결과를 도출해보기 !
