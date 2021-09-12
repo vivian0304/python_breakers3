@@ -24,6 +24,10 @@
   - 😵 문제: 기트허브 README.md를 통해 기트허브 꾸며보기
   - ▶️ 숙제 결과: [this](https://github.com/vivian0304/test_git/blob/0cedfe8e6db716ad699469ab9d52a24ad00f8b89/README.md)
 
+- week 5 (5주차) 퀘스트 : 데이터프레임
+  - 😵 문제: [5주차 퀘스트](https://github.com/koptimizer/Python_Breakers/blob/21424649b2c5e2875b1f54fa750ede3c80889676/season3/quest/5%EC%A3%BC%EC%B0%A8%ED%80%98%EC%8A%A4%ED%8A%B8.md)
+  - ▶️ 숙제 결과: [homework3.ipynb](https://github.com/vivian0304/python_breakers3/blob/f12be87c99fba676c2f01f04e19827d23ae67d19/homework3.ipynb)
+
 # 🥉 최종 목표
 - 파이썬을 이용한 데이터 파일들을 분석과 유의미한 결과를 도출!
 - 카카오톡 챗봇에 활용할 데이터 분석 방법 학습!
